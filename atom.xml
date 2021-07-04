@@ -6,7 +6,7 @@
   <link href="https://miaoyuaichirou.github.io/atom.xml" rel="self"/>
   
   <link href="https://miaoyuaichirou.github.io/"/>
-  <updated>2021-07-04T15:15:00.238Z</updated>
+  <updated>2021-07-01T14:15:12.384Z</updated>
   <id>https://miaoyuaichirou.github.io/</id>
   
   <author>
@@ -15,58 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test1</title>
-    <link href="https://miaoyuaichirou.github.io/2021/07/04/test1/"/>
-    <id>https://miaoyuaichirou.github.io/2021/07/04/test1/</id>
-    <published>2021-07-04T15:03:48.000Z</published>
-    <updated>2021-07-04T15:15:00.238Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;测试2&quot;&gt;&lt;a href=&quot;#测试2&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="test" scheme="https://miaoyuaichirou.github.io/categories/test/"/>
-    
-    
-    <category term="java" scheme="https://miaoyuaichirou.github.io/tags/java/"/>
-    
-    <category term="c#" scheme="https://miaoyuaichirou.github.io/tags/c/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="https://miaoyuaichirou.github.io/2021/07/04/test/"/>
-    <id>https://miaoyuaichirou.github.io/2021/07/04/test/</id>
-    <published>2021-07-04T15:02:54.000Z</published>
-    <updated>2021-07-04T15:15:54.432Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;测试&quot;&gt;&lt;a href=&quot;#测试&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="test" scheme="https://miaoyuaichirou.github.io/categories/test/"/>
-    
-    
-    <category term="java" scheme="https://miaoyuaichirou.github.io/tags/java/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
